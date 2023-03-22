@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\Week3 Ass\bin\Debug\net6.0\Week3 Ass..exe
+C:\Users\pc\source\repos\Week3 Ass\bin\Debug\net6.0\Week3 Ass..deps.json
+C:\Users\pc\source\repos\Week3 Ass\bin\Debug\net6.0\Week3 Ass..runtimeconfig.json
+C:\Users\pc\source\repos\Week3 Ass\bin\Debug\net6.0\Week3 Ass..dll
+C:\Users\pc\source\repos\Week3 Ass\bin\Debug\net6.0\Week3 Ass..pdb
+C:\Users\pc\source\repos\Week3 Ass\obj\Debug\net6.0\Week3 Ass..csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Week3 Ass\obj\Debug\net6.0\Week3 Ass..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Week3 Ass\obj\Debug\net6.0\Week3 Ass..AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Week3 Ass\obj\Debug\net6.0\Week3 Ass..AssemblyInfo.cs
+C:\Users\pc\source\repos\Week3 Ass\obj\Debug\net6.0\Week3 Ass..csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Week3 Ass\obj\Debug\net6.0\Week3 Ass..dll
+C:\Users\pc\source\repos\Week3 Ass\obj\Debug\net6.0\refint\Week3 Ass..dll
+C:\Users\pc\source\repos\Week3 Ass\obj\Debug\net6.0\Week3 Ass..pdb
+C:\Users\pc\source\repos\Week3 Ass\obj\Debug\net6.0\Week3 Ass..genruntimeconfig.cache
+C:\Users\pc\source\repos\Week3 Ass\obj\Debug\net6.0\ref\Week3 Ass..dll
